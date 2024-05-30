@@ -13,8 +13,6 @@ import java.util.Optional;
 @RequestMapping("/api/tickets")
 public class TicketController {
 
-
-
         @Autowired
         private TicketService ticketService;
 
